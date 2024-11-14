@@ -21,7 +21,7 @@ This project is a Python-based Internet Speed Test tool with a graphical user in
 The results are saved in speedtest_results.csv with the following structure:
 
 | Date & Time | Download Speed (Mbps) | Upload Speed (Mbps) |
-| ----------- | ----------- || ----------- | 
+| ----------- | --------------------- | --------------------| 
 | 2024-11-13 13:43:16 | 67.18 | 2.13 |
 | 2024-11-13 13:43:42 | 55.17 | 1.98 |
 
