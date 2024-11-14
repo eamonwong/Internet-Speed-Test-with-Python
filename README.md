@@ -32,3 +32,5 @@ Ever wondered how your internet speed fluctuates throughout the day or over week
 
 # Why I Built This
 I wanted a way to better understand my internet performance and showcase my programming skills. This project combines useful functionality with a clean, interactive interface—and it’s a great way to demonstrate my ability to work with data, GUIs, and visualisation.
+
+https://github.com/user-attachments/assets/09c3e412-b765-4b74-be1e-afd131d51698
