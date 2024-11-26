@@ -80,10 +80,10 @@ frame.pack(pady=20)
 result_label = tk.Label(frame, text="Click 'Start Test' to begin", font=("Helvetica", 12))
 result_label.pack(pady=10)
 
-start_button = tk.Button(frame, text="Start Test", command=test_internet_speed)
+start_button = tk.Button(frame, text="Start Test", command=test_internet_speed, height=1)
 start_button.pack(side=tk.LEFT, padx=10)
 
-history_button = tk.Button(frame, text="Show History", command=plot_results)
+history_button = tk.Button(frame, text="Show History", command=plot_results, height=1)
 history_button.pack(side=tk.LEFT, padx=10)
 
 root.mainloop()
